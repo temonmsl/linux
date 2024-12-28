@@ -10,7 +10,7 @@
 - https://blog.csdn.net/weixin_43811294/article/details/126824104
 - https://www.yuque.com/kkuping/bu68dz/ksvta9?#B7hrW
 
-##圖片來源 :
+## 圖片來源 :
  - 筆記中圖片來源分為三部分：
  - 1.影片「3天搞定Linux，1天搞定Shell，清华学神带你通关」-- 作者 : 尚硅谷
  - 2.GPT
