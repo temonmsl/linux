@@ -2,7 +2,7 @@
 
 ## 相關影片：
 - **3天搞定Linux，1天搞定Shell，清华学神带你通关**
-  - [影片鏈接][(https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click)](https://www.bilibili.com/video/BV1WY4y1H7d3/?spm_id_from=333.337.search-card.all.click&vd_source=a6cbb8d6eb12bab9b5314690e3b03bd2)
+  - [影片鏈接](https://www.bilibili.com/video/BV1WY4y1H7d3/?spm_id_from=333.337.search-card.all.click&vd_source=a6cbb8d6eb12bab9b5314690e3b03bd2)
 
 ## 參考筆記：
 - https://github.com/dselegent/Learning-Notes/tree/master/Linux
